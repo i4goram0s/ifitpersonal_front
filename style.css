@@ -1,0 +1,16 @@
+h2 {
+    color: #b32424;
+    font-size: 1.8rem;
+}
+
+#topo{
+    overflow: hidden;
+    display: block;
+    height: 200px;
+    background: url(images/bg.jpg) no-repeat 0 -330px / 100%;
+}
+
+iframe{
+    width: 100%;
+}
+
